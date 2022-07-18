@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Mi nombre es Carlos García</h1>
 <h3 align="center">Desarrollador Front-End autodidacta.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo de **React**
 
 - 💬 Puedes preguntarme sobre **HTML, CSS y JavaScript**
 
-- 📫 Puedes contactarme **krlosgarciar@gmail.com**
+- 📫 Puedes contactarme a **krlosgarciar@gmail.com**
 
 - 📄 Conoce un poco más de mi en mi LinkedIn [https://www.linkedin.com/in/krlosgarciar/](https://www.linkedin.com/in/krlosgarciar/)
 
