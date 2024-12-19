@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, Mi nombre es Carlos García</h1>
 
-[![Banner][img-banner]](https://www.linkedin.com/in/krlosgarciar/)
+[![Banner][img-banner]](https:)
 
 <h3 align="center">Desarrollador Front-End autodidacta.</h3>
 
-- 🌱 Actualmente estoy aprendiendo de **React**
+- 🌱 Actualmente estoy aprendiendo **React**
 
 - 💬 Puedes preguntarme sobre **HTML, CSS y JavaScript**
 
