@@ -79,7 +79,7 @@ Técnico en **Desarrollo de Aplicaciones Web (DAW)**, actualmente orientando mi 
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Técnico en **Desarrollo de Aplicaciones Web (DAW)**, actualmente orientando mi 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlosgarciar&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
+-->
 ---
 
 ## 🌱 Mi forma de trabajar
