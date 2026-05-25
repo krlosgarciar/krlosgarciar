@@ -1,27 +1,77 @@
-<h1 align="center">Hola 👋, Mi nombre es Carlos García</h1>
+<!-- Perfil README para el repositorio especial de GitHub: krlosgarciar -->
 
-[![Banner][img-banner]](https:)
+# Hola, soy Carlos Garcia Romero
 
-<h3 align="center">Desarrollador Front-End autodidacta.</h3>
+<!-- Presentacion breve orientada a un perfil de estudiante DAW -->
 
-- 🌱 Actualmente estoy aprendiendo **React**
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y estoy construyendo mi perfil profesional como desarrollador web. Me interesa crear aplicaciones claras, mantenibles y bien documentadas.
 
-- 💬 Puedes preguntarme sobre **HTML, CSS y JavaScript**
+[![GitHub](https://img.shields.io/badge/GitHub-krlosgarciar-181717?style=for-the-badge&logo=github)](https://github.com/krlosgarciar)
+![DAW](https://img.shields.io/badge/Estudiante-DAW-blue?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-Perfil-green?style=for-the-badge&logo=markdown)
 
-- 📫 Puedes contactarme a **krlosgarciar@gmail.com**
+## Sobre mi
 
-- 📄 Conoce un poco más de mi en mi LinkedIn [https://www.linkedin.com/in/krlosgarciar/](https://www.linkedin.com/in/krlosgarciar/)
+<!-- Lista rapida para que el visitante entienda el perfil sin leer mucho texto -->
 
-- ⚡ Sobre mi **Suelo ser bastante curioso, me pregunto mucho sobre el porqué y el como de las cosas.**
+- Estoy aprendiendo desarrollo frontend, backend y control de versiones.
+- Practico con proyectos web usando **HTML**, **CSS**, **JavaScript** y **PHP**.
+- Uso **Git** y **GitHub** para organizar codigo, documentar cambios y preparar entregas.
+- Mi perfil de GitHub esta disponible en: [github.com/krlosgarciar](https://github.com/krlosgarciar).
 
-<h3 align="left">Habla un poco más conmigo:</h3>
-<p align="left">
-<a href="https://codepen.io/krlosgarciar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krlosgarciar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krlosgarciar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krlosgarciar" height="30" width="40" /></a>
-</p>
+## Tecnologias que estoy practicando
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Tabla resumen de tecnologias principales del ciclo DAW -->
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[img-banner]: https://lh3.googleusercontent.com/fife/AAWUweUHxSLqLJpFKCoH7wYRMIXopvurBlO803ScVpN84Lgn4o1N8zRV4-idjrcjZpmOD45oSj9h-Ozic2PbAsgI8DNZ3mt0nrjYZdXkcVcCgGJimzio3OnpB-4w5JW_Sf6Sqsy3GKtxKBDJ9gzHHpjHMQ1kQXhHybPuDuhNsTbOClBEsGUzi8V32Np_LbjBL3NQgOI5J2beAh4ys7gTnBgn212uDiwlrPAuo8Y6wEeoVpTIhY9bY8kQoFlsvRXH2A7H5fqHeYtZnDIvjQBRDlGVKAF8zed-xO8Csl3zclllimrIsi7-1Fjva_CWIcePEl4g8rVhsfgmkC4-F1IrlRDBWD1AQusUs0mk3iCtciWfzwXKzqn3izUnDtRqkNgl-P2xKqE_ivuMMqBFN8pGdsiw-HMzsajuQJZnVwH1HQf3Lmc4EkMcX2WG6mO9nwT160zhEDKddhiOilr15vMc3U1bhMNbNpGRNRUZGGNVJTzoMxCTVRmzHiq0JOxEBX7EBRzTn4881zdoqCV8NRkwesAiaI0o99pJyKxUEufX3obwXEEfHsmcP_eNlokBrO3w_pVkAPixlV3y_YY04vu7T2R6bS401w5GYSdJiunWGbdNRq9NXc5-B5jhQyzZ5WmQin9ESt50pkK8nqM15uqi_kxh4h-MTC-16WUZxp58B3fNJ9dWm7YGI89TpWamwoTeU3msBpwNF6PYdfw5-hPHgQNnEvjrfnsIJWrOr7Nl6INJrU9KdpixhH-EMwjAHnuC4NY8_sTfSKNBdHAJEfneA1vrZ_5lSRWUFCWrppIgLk3ZU9nB7SRYvE9u2AktiXyxcNTsOZo3CNqDUGkZp-Ls7HskpQthESzl5ZjC-CddOsR9Lj3OLMxodxeWxMCAuT2fv3robdpSBsN759CquxfoRJVtOaXp-usEBXMbyzcm26-ZKyNzhOUMultmLK5KgXj_XmciYru40KM-xUcMdQmIQX32IX97QRck70rPPXNzJhz0UW9ByUX2EkS0TtYloPSNDQLVefuFObtm19YwV8FOmCMpVmrse6FA3PKvWZYRaz9py5iM2isM0ayXdPhX13GZXQBsqisvJC3Q-RRhHfYkhhz6jXPipQH0gXPXnOdHKqr1Cj4Xo6ZX24zS3E42uhicaAl4A4XP2v4eKWf5T2_AZKub9DML7OyZQbj2yrca0yJK3aJX48XrZLXl5cF8wROzcO8x-rs06GwFfBQWUTkYGq6HfByq2iWTLpEohEu8OtzlREXUoCjrN9Met0ikvYlYoVg29Rba-b0UGQ=w1920-h929
+| Area         | Tecnologias             | Nivel actual |
+| ------------ | ----------------------- | ------------ |
+| Frontend     | HTML, CSS, JavaScript   | En practica  |
+| Backend      | PHP                     | En practica  |
+| Herramientas | Git, GitHub, Markdown   | En practica  |
+| Calidad      | PHPUnit, GitHub Actions | Aprendiendo  |
+
+## Objetivos de aprendizaje
+
+<!-- Objetivos concretos para mostrar progreso academico y profesional -->
+
+- Escribir codigo mas limpio y facil de mantener.
+- Documentar proyectos con README claros y utiles.
+- Automatizar comprobaciones con integracion continua.
+- Mejorar el uso de ramas, commits y revisiones en GitHub.
+
+## Ejemplo de codigo
+
+<!-- Bloque de codigo requerido por la practica Markdown -->
+
+```php
+<?php
+
+function saluda(string $nombre): string
+{
+    return "Hola, {$nombre}. Bienvenido a mi perfil de GitHub.";
+}
+
+echo saluda('Carlos');
+```
+
+## Proyectos destacados
+
+<!-- Seccion preparada para ampliar cuando haya mas repositorios publicados -->
+
+| Proyecto         | Descripcion                                            | Estado      |
+| ---------------- | ------------------------------------------------------ | ----------- |
+| Perfil GitHub    | README personal creado con Markdown                    | En progreso |
+| CI Actions CGR   | Proyecto PHP con tests y GitHub Actions                | En practica |
+| Breakout Ajax JS | Proyecto web usado para documentacion de codigo fuente | En practica |
+
+## Contacto
+
+<!-- Enlace principal del perfil publico -->
+
+- GitHub: [@krlosgarciar](https://github.com/krlosgarciar)
+
+---
+
+<!-- Mensaje final breve para cerrar el perfil -->
+
+Gracias por visitar mi perfil.
