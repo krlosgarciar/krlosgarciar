@@ -1,77 +1,119 @@
-<!-- Perfil README para el repositorio especial de GitHub: krlosgarciar -->
+<!-- Perfil README para el repositorio especial de GitHub: krlosgarciar/krlosgarciar -->
 
-# Hola, soy Carlos Garcia Romero
+<div align="center">
 
-<!-- Presentacion breve orientada a un perfil de estudiante DAW -->
+# 👋 Hola, soy Carlos García
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y estoy construyendo mi perfil profesional como desarrollador web. Me interesa crear aplicaciones claras, mantenibles y bien documentadas.
+### Full‑Stack Web Developer Junior · DAW · JavaScript · Python · PHP · SQL · Docker · AI Tools
+
+Desarrollador web en formación continua, con interés en crear aplicaciones claras, mantenibles y útiles.  
+Me gusta aprender construyendo, documentar lo que hago y mejorar cada proyecto con buenas prácticas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-krlosgarciar-181717?style=for-the-badge&logo=github)](https://github.com/krlosgarciar)
-![DAW](https://img.shields.io/badge/Estudiante-DAW-blue?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-Perfil-green?style=for-the-badge&logo=markdown)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlosgarciar/)
+[![España](https://img.shields.io/badge/Ubicación-España-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/krlosgarciar)
 
-## Sobre mi
-
-<!-- Lista rapida para que el visitante entienda el perfil sin leer mucho texto -->
-
-- Estoy aprendiendo desarrollo frontend, backend y control de versiones.
-- Practico con proyectos web usando **HTML**, **CSS**, **JavaScript** y **PHP**.
-- Uso **Git** y **GitHub** para organizar codigo, documentar cambios y preparar entregas.
-- Mi perfil de GitHub esta disponible en: [github.com/krlosgarciar](https://github.com/krlosgarciar).
-
-## Tecnologias que estoy practicando
-
-<!-- Tabla resumen de tecnologias principales del ciclo DAW -->
-
-| Area         | Tecnologias             | Nivel actual |
-| ------------ | ----------------------- | ------------ |
-| Frontend     | HTML, CSS, JavaScript   | En practica  |
-| Backend      | PHP                     | En practica  |
-| Herramientas | Git, GitHub, Markdown   | En practica  |
-| Calidad      | PHPUnit, GitHub Actions | Aprendiendo  |
-
-## Objetivos de aprendizaje
-
-<!-- Objetivos concretos para mostrar progreso academico y profesional -->
-
-- Escribir codigo mas limpio y facil de mantener.
-- Documentar proyectos con README claros y utiles.
-- Automatizar comprobaciones con integracion continua.
-- Mejorar el uso de ramas, commits y revisiones en GitHub.
-
-## Ejemplo de codigo
-
-<!-- Bloque de codigo requerido por la practica Markdown -->
-
-```php
-<?php
-
-function saluda(string $nombre): string
-{
-    return "Hola, {$nombre}. Bienvenido a mi perfil de GitHub.";
-}
-
-echo saluda('Carlos');
-```
-
-## Proyectos destacados
-
-<!-- Seccion preparada para ampliar cuando haya mas repositorios publicados -->
-
-| Proyecto         | Descripcion                                            | Estado      |
-| ---------------- | ------------------------------------------------------ | ----------- |
-| Perfil GitHub    | README personal creado con Markdown                    | En progreso |
-| CI Actions CGR   | Proyecto PHP con tests y GitHub Actions                | En practica |
-| Breakout Ajax JS | Proyecto web usado para documentacion de codigo fuente | En practica |
-
-## Contacto
-
-<!-- Enlace principal del perfil publico -->
-
-- GitHub: [@krlosgarciar](https://github.com/krlosgarciar)
+</div>
 
 ---
 
-<!-- Mensaje final breve para cerrar el perfil -->
+## 🚀 Sobre mí
 
-Gracias por visitar mi perfil.
+Técnico en **Desarrollo de Aplicaciones Web (DAW)**, actualmente orientando mi perfil hacia roles **Full‑Stack Junior**. Me interesa especialmente el desarrollo backend, las APIs, la automatización, Docker, DevOps y el uso práctico de herramientas de IA para acelerar el aprendizaje y mejorar la productividad.
+
+- 💻 Construyo proyectos web con enfoque práctico y ganas de mejorar continuamente.
+- 🧠 Me gusta entender cómo funcionan las cosas por dentro: backend, servidores, despliegues y arquitectura.
+- 🛠️ Estoy reforzando buenas prácticas: Git, documentación, testing, estructura de proyectos y CI/CD.
+- 🤖 Uso herramientas de IA como apoyo para investigar, aprender, depurar y documentar mejor.
+- 🎯 Objetivo actual: crecer como **desarrollador Full‑Stack Junior** en un equipo donde pueda aprender, aportar y evolucionar.
+
+---
+
+## 🧰 Stack y herramientas
+
+### Lenguajes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend, bases de datos y DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Proyectos destacados
+
+| Proyecto                                                                         | Descripción                                                                          | Tecnologías                  | Estado      |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------- | ----------- |
+| [Proyecto Omnifood](https://github.com/krlosgarciar/Proyecto-Omnifood)           | Landing page responsive enfocada en maquetación moderna y buenas prácticas visuales. | HTML, CSS, JavaScript        | Publicado   |
+| [Effect Vercel Gradient](https://github.com/krlosgarciar/Effect-Vercel-Gradient) | Efecto visual de degradado inspirado en interfaces modernas.                         | HTML, CSS                    | Publicado   |
+| [Profile Card Animated](https://github.com/krlosgarciar/profileCardAnimated)     | Componente visual animado para practicar diseño UI y CSS.                            | HTML, CSS                    | Publicado   |
+| CI Actions CGR                                                                   | Proyecto de práctica con testing e integración continua.                             | PHP, PHPUnit, GitHub Actions | En práctica |
+
+> Estoy trabajando en mejorar mis repositorios con READMEs más claros, estructura más profesional y ejemplos de uso.
+
+---
+
+## 🧭 Actualmente estoy aprendiendo
+
+- Arquitectura y estructura de proyectos web modernos.
+- APIs REST, backend y diseño de bases de datos.
+- Testing, integración continua y automatización con GitHub Actions.
+- Docker, despliegues y fundamentos DevOps.
+- Uso de IA aplicada al desarrollo: documentación, debugging, productividad y aprendizaje.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=krlosgarciar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlosgarciar&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Mi forma de trabajar
+
+```txt
+Aprender → Construir → Documentar → Mejorar → Compartir
+```
+
+Me gusta avanzar paso a paso, convertir lo que aprendo en proyectos visibles y dejar documentación que ayude a entender el proceso, no solo el resultado final.
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlosgarciar/)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-@krlosgarciar-181717?style=for-the-badge&logo=github)](https://github.com/krlosgarciar) -->
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Gracias por visitar mi perfil. Siempre estoy aprendiendo, construyendo y mejorando.
+
+</div>
