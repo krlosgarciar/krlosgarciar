@@ -9,7 +9,7 @@
 Desarrollador web en formación continua, con interés en crear aplicaciones claras, mantenibles y útiles.  
 Me gusta aprender construyendo, documentar lo que hago y mejorar cada proyecto con buenas prácticas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-krlosgarciar-181717?style=for-the-badge&logo=github)](https://github.com/krlosgarciar)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-krlosgarciar-181717?style=for-the-badge&logo=github)](https://github.com/krlosgarciar) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krlosgarciar/)
 [![España](https://img.shields.io/badge/Ubicación-España-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/krlosgarciar)
 
